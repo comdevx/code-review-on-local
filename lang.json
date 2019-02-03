@@ -1,0 +1,10 @@
+{
+    "EN": [
+        {
+            "getVar": "Use const for all of your references; avoid using var.",
+            "getNewObject": "Use the literal syntax for object creation.",
+            "getObjDup": "Use property value shorthand.",
+            "getObjQuote": "Only quote properties that are invalid identifiers."
+        }
+    ]
+}
