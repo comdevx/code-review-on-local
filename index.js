@@ -15,6 +15,7 @@ async function start() {
             const code = getFile(file)
             const line = getLine(code)
             const bad = codebads(line, countryCode)
+            console.log(file)
             console.log(bad)
         })
     })
